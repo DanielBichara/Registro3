@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package uees.poo.registro3;
+package uees.poo.registro3.Guia7;
 
 import org.mindrot.jbcrypt.BCrypt;
 
